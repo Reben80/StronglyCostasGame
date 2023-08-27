@@ -31,6 +31,9 @@ The game is terminated ( or the move is not allowed) if any of the following con
 4. Placing two or more points on the same column.
 5. Placing points that create line segments with shared slopes.
 
+![Strongly Costas Game](https://github.com/Reben80/StronglyCostasGame/blob/9d771e097f4c9ff4ccac055c4b57f6e72b260dd4/stronglycostasgame1.png)
+
+*Above: A screenshot of the Strongly Costas Game with all the dots placed on the grid.*
 
 ## To-Do List
 
@@ -55,4 +58,9 @@ Here's a list of exciting features and improvements we're planning to work on fo
 - [ ] Establish a feedback mechanism to gather insights from players and contributors.
 
 
+
 Enjoy Strongly Costas Game!
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
