@@ -59,7 +59,7 @@ Here's a list of exciting features and improvements we're planning to work on fo
 
 
 
-Enjoy Strongly Costas Game!
+Enjoy Slope Battles!
 
 ## License
 
