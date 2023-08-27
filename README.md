@@ -24,13 +24,35 @@ The objective of the game is to place points on the grid while adhering to the r
 
 ## Game Termination Conditions
 
-The game is terminated if any of the following conditions are met:
-1. Placing a point outside the grid's confines.
+The game is terminated ( or the move is not allowed) if any of the following conditions are met:
+1. Placing a point outside the grid's.
 2. Placing a point at an occupied location.
 3. Placing two or more points on the same row.
 4. Placing two or more points on the same column.
 5. Placing points that create line segments with shared slopes.
 
-## Getting Started
 
-# StronglyCostasGame
+## To-Do List
+
+Here's a list of exciting features and improvements we're planning to work on for the Grid Game:
+
+### Features
+- [ ] Implement a scoring system to keep track of player performance.
+- [ ] Add a timer to challenge players to complete the game within a time limit.
+- [ ] Create multiple difficulty levels to cater to players of all skill levels.
+- [ ] Introduce animations for a more engaging and visually appealing gameplay experience.
+- [ ] Allow players to customize the grid size and adjust game rules for added variety.
+
+### Enhancements
+- [ ] Incorporate dynamic sound effects to enhance immersion during gameplay.
+- [ ] Design captivating background music that complements the game's theme.
+- [ ] Develop a comprehensive leaderboard to showcase top players and their achievements.
+- [ ] Provide a step-by-step tutorial for new players to quickly grasp the game mechanics.
+- [ ] Optimize the game for different devices and screen sizes for a seamless user experience.
+
+### Community Involvement
+- [ ] Collaborate with the community to identify and prioritize new features and improvements.
+- [ ] Establish a feedback mechanism to gather insights from players and contributors.
+
+
+Enjoy Strongly Costas Game!
