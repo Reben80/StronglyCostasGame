@@ -1,4 +1,4 @@
-# Strongly Costas Game
+# Slope Battles
 
 Grid Game is a simple web-based puzzle game where players place points on an n x n grid following specific rules. The game is inspired by the [Costas array](https://en.wikipedia.org/wiki/Costas_array) problem.
 
